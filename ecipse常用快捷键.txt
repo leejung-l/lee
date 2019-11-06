@@ -1,0 +1,33 @@
+﻿Alt + /				智能提示
+Ctrl + 1 				快速修复
+
+Ctrl + W				关闭当前窗口
+Ctrl + Shift + W			关闭所有窗口
+
+Ctrl + S				保存
+Ctrl + Shift + S			保存所有
+
+Ctrl + /				单行/取消注释
+Ctrl + Shift + /		块注释
+Ctrl + Shift + \		取消块注释
+Ctrl + Shift + F		代码格式化(自动对齐)
+Ctrl + F                                查找替换
+Ctrl + Shift + O		自动导入所有需要的类
+
+Shift + Enter 			在当前行的下面产生空行
+Ctrl + Alt + 向下箭头		复制一行
+Alt + 向下/向上箭头			移动一行
+Ctrl + D				删除一行
+
+Alt + Shift + R			重命名
+Alt + Shift + M			把一段代码抽象为一个方法
+Alt + Shift + L			把一个表达式赋值给一个局部变量
+
+Ctrl + Shift + T			打开 类型
+Ctrl + O 				显示类成员
+
+Ctrl + F11				运行程序
+F11				调试程序
+Ctrl + Shift + B			添加/取消断点
+
+Shift + Alt  + A                                        多行编辑
